@@ -1,1 +1,1 @@
-# My-TypeScript-Revision-Sheet
+# TypeScript-Cheatsheet
